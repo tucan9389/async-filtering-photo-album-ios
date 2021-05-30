@@ -94,3 +94,5 @@ iOSInjectionProject/
 
 Pods/
 Classifier/.idea/
+
+Classifier/outputs_mlmodel/
