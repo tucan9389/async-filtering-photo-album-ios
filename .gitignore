@@ -96,3 +96,7 @@ Pods/
 Classifier/.idea/
 
 Classifier/outputs_mlmodel/
+
+_Pods.xcodeproj
+
+Example/FilteringPhotoAlbum.xcworkspace/
