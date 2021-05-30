@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FilteringPhotoAlbum_Example' do
+  pod 'FilteringPhotoAlbum', :path => '../'
+
+  target 'FilteringPhotoAlbum_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

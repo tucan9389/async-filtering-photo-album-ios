@@ -1,0 +1,16 @@
+PODS:
+  - FilteringPhotoAlbum (0.1.0)
+
+DEPENDENCIES:
+  - FilteringPhotoAlbum (from `../`)
+
+EXTERNAL SOURCES:
+  FilteringPhotoAlbum:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FilteringPhotoAlbum: 623cc2dcf9a36a4ea9bb0628b21107c29216e118
+
+PODFILE CHECKSUM: d849054c45c51bf61a4928a989497124e5b04303
+
+COCOAPODS: 1.10.1
