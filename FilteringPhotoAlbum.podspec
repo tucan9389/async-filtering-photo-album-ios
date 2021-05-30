@@ -23,8 +23,8 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/tucan9389/FilteringPhotoAlbum'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'tucan9389' => 'tucan9389@gmail.com' }
+  s.license          = { :type => 'Apache License 2.0', :file => 'LICENSE' }
+  s.author           = { 'tucan9389' => 'tucan.dev@gmail.com' }
   s.source           = { :git => 'https://github.com/tucan9389/FilteringPhotoAlbum.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
