@@ -22,7 +22,7 @@ pod 'FilteringPhotoAlbum'
 
 ## Author
 
-tucan9389, tucan9389@gmail.com
+tucan9389, tucan.dev@gmail.com
 
 ## License
 
